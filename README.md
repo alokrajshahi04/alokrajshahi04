@@ -17,7 +17,7 @@
 ### `> whoami`
 
 ```
-Alok Raj Shahi — 17 y/o founder building at the intersection of AI × Web3.
+Alok Raj Shahi — 18 y/o founder building at the intersection of AI × Web3.
 Running Tolti Labs, an AI Operator Agency targeting US/EU clients.
 On a 2-year mission (Project 833) to $10M ARR by March 2028.
 Currently: shipping, cold-outreaching, and figuring it all out in public.
