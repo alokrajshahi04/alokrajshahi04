@@ -14,25 +14,17 @@
 
 ---
 
-### `> whoami`
 
-```
-Alok Raj Shahi — 18 y/o founder building at the intersection of AI × Web3.
-Running Tolti Labs, an AI Operator Agency targeting US/EU clients.
-On a 2-year mission (Project 833) to $10M ARR by March 2028.
-Currently: shipping, cold-outreaching, and figuring it all out in public.
-```
 
 ---
 
 ### `> current --focus`
 
 ```yaml
-company    : Tolti Labs (tolti.xyz)
+company    : Tolti Labs (tolti.studio)
 role       : Founder & AI Operator
 building   : AI agent systems, custom LLM pipelines, autonomous workflows
 stack      : Next.js · Appwrite · LiveKit · n8n · Supabase · Claude API
-timeline   : First paying US/EU retainer client before college (Aug 2026)
 ```
 
 ---
@@ -75,7 +67,7 @@ timeline   : First paying US/EU retainer client before college (Aug 2026)
 
 | Project | Stack | Description |
 |---|---|---|
-| **[Tolti Labs](https://tolti.xyz)** | Next.js · n8n · Claude API | AI Operator Agency — custom agent pipelines for US/EU clients |
+| **[Tolti Labs](https://tolti.studio)** | Next.js · n8n · Claude API | AI Operator Agency — custom agent pipelines for US/EU clients |
 | **[sol-chat](https://github.com/alokrajshahi04/sol-chat)** | JavaScript · Solana · x402 | x402-based micropayment chat on Solana |
 | **[tolvix-nullshot](https://github.com/alokrajshahi04/tolvix-nullshot)** | TypeScript | Zero-shot agentic executor under Tolti Labs |
 
