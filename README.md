@@ -100,7 +100,7 @@ stack      : Next.js · Appwrite · LiveKit · n8n · Supabase · Claude API
 
 <div align="center">
 
-<sub>Building in public · <a href="https://tolti.xyz">tolti.xyz</a> · Project 833 → March 2028</sub>
+<sub>Building in public · <a href="https://tolti.studio">tolti labs</a> · Project 833 → March 2028</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%" />
 
